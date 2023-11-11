@@ -1,6 +1,6 @@
 # BulkyBookWeb 📖
 
-**Catalog list showing book categorys and display orders.**
+**Displays a list of book categories and display order**
 
 ## Technologies
   - .NET6
