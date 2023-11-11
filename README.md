@@ -5,3 +5,5 @@
 ## Technologies
   - .NET6
   - Entity Framework Core 7.0
+
+![Image](Images/BulkyBook.png)
