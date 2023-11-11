@@ -1,4 +1,4 @@
-# BulkyBookWeb 🍿🎥
+# BulkyBookWeb 📖
 
 **Catalog list showing book categorys and display orders.**
 
